@@ -6,13 +6,13 @@ Esta aplicación permite a los usuarios ingresar un nombre de departamento y un 
 
 A continuación se muestran algunas capturas de pantalla de la aplicación en funcionamiento:
 
-![Captura de Pantalla 1](https://ibb.co/8Mb7FJt)
+![Captura de Pantalla 1](https://postimg.cc/Wt6FYzJst)
 *Ingresaer los datos por consola*
 
-![Captura de Pantalla 2](https://ibb.co/KD2xw1z)
+![Captura de Pantalla 2](https://postimg.cc/BXS8r3xH)
 *mostrar los datos filtrados por departamento*
 
-![Captura de Pantalla 3](https://ibb.co/wrLHBg2)
+![Captura de Pantalla 3](https://postimg.cc/ZCw9ZQcg)
 *visualizacion de resultados en interfaz grafica*
 
 
