@@ -5,14 +5,13 @@ Esta aplicación permite a los usuarios ingresar un nombre de departamento y un 
 ## Capturas de Pantalla
 
 A continuación se muestran algunas capturas de pantalla de la aplicación en funcionamiento:
-
-![Captura de Pantalla 1](https://postimg.cc/Wt6FYzJst)
+![Datos](https://github.com/Max1mus5/Proyecto-API/assets/75461653/b3778a6c-2d1c-4ac6-8ddb-db34e600138e)
 *Ingresaer los datos por consola*
 
-![Captura de Pantalla 2](https://postimg.cc/BXS8r3xH)
+![Obtener](https://github.com/Max1mus5/Proyecto-API/assets/75461653/facdc027-11fa-4e43-a766-7e78919271b3)
 *mostrar los datos filtrados por departamento*
 
-![Captura de Pantalla 3](https://postimg.cc/ZCw9ZQcg)
+![Interfaz Grafia](https://github.com/Max1mus5/Proyecto-API/assets/75461653/e66366f2-5a87-47f1-8afc-44cc12ab827b)
 *visualizacion de resultados en interfaz grafica*
 
 
